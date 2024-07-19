@@ -1,2 +1,2 @@
 # yetenekbasaksehir
-Yetenek Başakşehir .Net FullStack eğitimi proejeleri
+Yetenek Başakşehir .Net FullStack eğitimi projeleri
